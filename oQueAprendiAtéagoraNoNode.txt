@@ -1,0 +1,2 @@
+Aprendi a criar um projetinho hello world local em nodejs utilizando o framework express e fazendo rodar localmente na porta 3000 
+e depois disso subi o mesmo para o meu repositório no github.
