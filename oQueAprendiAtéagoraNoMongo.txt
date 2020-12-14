@@ -1,4 +1,0 @@
-Aprendi a criar um mongoDB na umbler, 
-acessar ele via gerenciamento externo,
-conectar o banco de dados com uma aplicação,
-e criar uma collection com arquivos e inserir dados nele.
